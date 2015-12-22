@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NPO Theme
 // @namespace    georgiy.tugai@gmail.com
-// @version      1.1
+// @version      1.3
 // @description  Advanced NPO theme for Cybernations
 // @author       Georgiy Tugai
 // @match        http://www.cybernations.net/*
